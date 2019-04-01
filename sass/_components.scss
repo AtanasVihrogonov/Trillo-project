@@ -134,7 +134,6 @@
       @media only screen and (max-width: $bp-medium) {
        margin: 0;
       }
-      
     }
 
     @media only screen and (max-width: $bp-medium) {
@@ -151,7 +150,6 @@
     width: 3px;
     background-color: var(--color-primary);
     transform: scaleY(0);
-
     transition: transform .2s,
                 width .4s cubic-bezier(1,0,0,1) .2s,
                 background-color .1s;
@@ -215,7 +213,6 @@
 
   @media only screen and (max-width: $bp-medium) {
     display: none;
-    
   }
 }
 
@@ -411,7 +408,6 @@
   &__friends {
     display: flex;
   }
-
 
   &__photo {
     height: 4rem;
