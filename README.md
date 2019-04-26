@@ -14,7 +14,7 @@ Real world project with complex responsive layouts using Flexbox.
 >The idea is that a user can book a hotel, a flight, a car, and a tour all in one platform.
 
 ## Screenshots
-![Example screenshot](/img/scr.jpg)
+![ff gif](https://user-images.githubusercontent.com/45083295/56776263-4414ac80-67c3-11e9-8c25-c755177739c8.gif)
 
 ## Tehnologies
 > Project is created with:
